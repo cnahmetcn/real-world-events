@@ -22,7 +22,8 @@ export default new Vuex.Store({
       'food',
       'community'
     ],
-    todos: [{
+    todos: [
+      {
         id: 1,
         text: '...',
         done: true

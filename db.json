@@ -4,10 +4,10 @@
       "id": 5928101,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "category": "animal welfare",
-      "organizer": "Adam",
+      "organizer": "Ahmet",
       "title": "Cat Cabaret",
       "description": "Yay felines!",
       "location": "Meow Town",
@@ -16,7 +16,7 @@
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "def456",
@@ -36,10 +36,10 @@
       "id": 8419988,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "category": "animal welfare",
-      "organizer": "Adam",
+      "organizer": "Ahmet",
       "title": "Kitty Cluster",
       "description": "Yay cats!",
       "location": "Catlandia",
@@ -60,10 +60,10 @@
       "id": 4582797,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "category": "animal welfare",
-      "organizer": "Adam",
+      "organizer": "Ahmet",
       "title": "Puppy Parade",
       "description": "Yay pups!",
       "location": "Puptown ",
@@ -72,7 +72,7 @@
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "ghi789",
@@ -88,12 +88,12 @@
       "id": 7168046,
       "user": {
         "id": "abc123",
-        "name": "Adam Jahr"
+        "name": "Ahmet Jahr"
       },
       "category": "nature",
       "organizer": {
         "id": "abc123",
-        "name": "Adam Jahr"
+        "name": "Ahmet Jahr"
       },
       "title": "Testing working",
       "description": "",
@@ -106,12 +106,12 @@
       "id": 2643122,
       "user": {
         "id": "abc123",
-        "name": "Adam Jahr"
+        "name": "Ahmet Jahr"
       },
       "category": "nature",
       "organizer": {
         "id": "abc123",
-        "name": "Adam Jahr"
+        "name": "Ahmet Jahr"
       },
       "title": "Planting Trees",
       "description": "We're going to plant trees",
@@ -127,12 +127,12 @@
       "time": "10:00",
       "location": "Daytona Beach",
       "description": "Let's clean up this beach.",
-      "organizer": "Adam Jahr",
+      "organizer": "Ahmet Jahr",
       "category": "sustainability",
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "def456",
@@ -155,7 +155,7 @@
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "We're going to clean up this park.",
-      "organizer": "Adam Jahr",
+      "organizer": "Ahmet Jahr",
       "category": "nature",
       "attendees": [
         {
@@ -180,7 +180,7 @@
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "ghi789",
@@ -199,12 +199,12 @@
       "time": "10:00",
       "location": "Daytona Beach",
       "description": "Let's clean up this beach.",
-      "organizer": "Adam Jahr",
+      "organizer": "Ahmet Jahr",
       "category": "sustainability",
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "def456",
@@ -227,7 +227,7 @@
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "We're going to clean up this park.",
-      "organizer": "Adam Jahr",
+      "organizer": "Ahmet Jahr",
       "category": "nature",
       "attendees": [
         {
@@ -252,7 +252,7 @@
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "ghi789",
@@ -271,12 +271,12 @@
       "time": "10:00",
       "location": "Daytona Beach",
       "description": "Let's clean up this beach.",
-      "organizer": "Adam Jahr",
+      "organizer": "Ahmet Jahr",
       "category": "sustainability",
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "def456",
@@ -299,7 +299,7 @@
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "We're going to clean up this park.",
-      "organizer": "Adam Jahr",
+      "organizer": "Ahmet Jahr",
       "category": "nature",
       "attendees": [
         {
@@ -324,7 +324,7 @@
       "attendees": [
         {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         },
         {
           "id": "ghi789",
@@ -342,7 +342,7 @@
       "organizer": {
         "user": {
           "id": "abc123",
-          "name": "Adam Jahr"
+          "name": "Ahmet Jahr"
         }
       },
       "title": "Gregg's Event",
@@ -356,12 +356,12 @@
       "id": 2323359,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "category": "",
       "organizer": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "title": "SUCCESS",
       "description": "",
@@ -374,12 +374,12 @@
       "id": 2807083,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "category": "",
       "organizer": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "title": "SUCCESS!!!",
       "description": "",
@@ -392,18 +392,36 @@
       "id": 7803857,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "category": "",
       "organizer": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Ahmet"
       },
       "title": "TEST SUCCESS",
       "description": "",
       "location": "",
       "date": "",
       "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5260935,
+      "user": {
+        "id": "abc123",
+        "name": "Ahmet"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Ahmet"
+      },
+      "title": "yemek",
+      "description": "akşam yemeği",
+      "location": "ev",
+      "date": "2021-02-25T13:14:00.000Z",
+      "time": "18:00",
       "attendees": []
     }
   ]
